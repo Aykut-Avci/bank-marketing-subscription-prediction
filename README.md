@@ -29,7 +29,7 @@ The E.D.A section provides insights into customer behavior based on features suc
 
 ## 4. Data Processing
 Several data processing steps were undertaken:
-- **Feature Handling**: Removing useless features and samples, replacing unknown values with the mode, and handling class imbalance using SMOTE.
+- **Feature Handling**: Removing irrelevant features and samples, replacing unknown values with the mode, and handling class imbalance using SMOTE.
 - **Feature Importance**: Age and education emerged as key predictors of term deposit subscription.
 
 ## 5. Model Presentation
