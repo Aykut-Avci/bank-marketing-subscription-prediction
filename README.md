@@ -43,7 +43,7 @@ A Random Forest model with hyperparameter tuning was selected for its strong per
 - **Recall**: 89% on the test set
 
 ## 6. Conclusion
-The project successfully identified key features influencing customer subscription behavior. With an accuracy of 89% and a recall of 88%, the model demonstrates strong predictive power. However, improvements could be made with a more balanced dataset and further customer segmentation.
+The project successfully identified key features influencing customer subscription behavior. With an accuracy of 89% and a recall of 89%, the model demonstrates strong predictive power. However, improvements could be made with a more balanced dataset and further customer segmentation.
 
 ## 7. Business Proposal
 The findings suggest targeted marketing based on age and education, allowing the bank to optimize its marketing efforts and reduce costs.
