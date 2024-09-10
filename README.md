@@ -1,6 +1,6 @@
 # Predicting Term Deposit Subscription
 
-![Projectcover](1693021461199.jpg)
+![Projectcover](Pictures/1693021461199.jpg)
 
 ## Project Overview
 This project aims to predict whether a bank customer would subscribe to a term deposit based on various customer, marketing, and bank-related features. The analysis was conducted using a dataset from the UCI Machine Learning Repository, focusing on reducing marketing costs by targeting potential customers effectively.
