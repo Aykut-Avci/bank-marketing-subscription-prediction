@@ -24,8 +24,8 @@ The goal of this project is to predict the likelihood of a bank customer subscri
 
 ## 3. Exploratory Data Analysis (E.D.A)
 The E.D.A section provides insights into customer behavior based on features such as age and education level. Some of the key findings include:
-- **Age**: Customers' likelihood of subscribing to the offer varies with age.
-- **Education**: Educational background influences offer acceptance.
+- **Age**: Customers' likelihood of subscribing to the offer varies with age, with lowest acceptance rate observed in the range 40-50 and increasing subscription rate with increasing age . 
+- **Education**: Educational background influences offer acceptance. A positive correlation between the education level and offer acceptance is observed. 
 
 ## 4. Data Processing
 Several data processing steps were undertaken:
