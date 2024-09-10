@@ -40,7 +40,7 @@ Three models were compared:
 
 A Random Forest model with hyperparameter tuning was selected for its strong performance, achieving:
 - **Accuracy**: 89%
-- **Recall**: 88% on the test set
+- **Recall**: 89% on the test set
 
 ## 6. Conclusion
 The project successfully identified key features influencing customer subscription behavior. With an accuracy of 89% and a recall of 88%, the model demonstrates strong predictive power. However, improvements could be made with a more balanced dataset and further customer segmentation.
