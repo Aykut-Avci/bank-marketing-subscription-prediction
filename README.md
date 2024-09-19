@@ -48,8 +48,11 @@ A Random Forest model with hyperparameter tuning was selected for its strong per
 The project successfully identified key features influencing customer subscription behavior. With an accuracy of 89% and a recall of 89%, the model demonstrates strong predictive power. However, improvements could be made with a more balanced dataset and further customer segmentation.
 
 ## 7. Business Proposal
-The findings suggest that targeted marketing based on customer age and education can significantly improve marketing conversion rates. Additionally, two bank-related factors (the number of employees and the 3-month Euribor rate) emerge as key determinants in offer acceptance. Larger bank branches, with higher employee counts, may offer better customer service and more sophisticated marketing efforts, leading to higher acceptance rates. Therefore, investing in increased employee capacity could further boost offer acceptance. Moreover, lower 3-month Euribor rates are correlated with higher subscription rates, indicating that banks should focus their marketing campaigns during periods of lower Euribor rates, as these times are often associated with financial stability and customer confidence.
+The analysis indicates the following recommendations:
 
-Furthermore, the machine learning model used in this project demonstrates a high level of predictive accuracy, achieving 89% accuracy in forecasting customer responses. This indicates that leveraging machine learning can significantly enhance the precision of targeting strategies and improve overall marketing effectiveness.
+    Targeted Marketing: Tailoring marketing strategies based on customer age and education levels can significantly improve conversion rates, as these are key factors influencing offer acceptance.
+    Employee Capacity Investment: Increasing staff in bank branches may enhance customer service and marketing effectiveness, leading to higher offer acceptance rates.
+    Euribor Rate Sensitivity: Marketing efforts should be focused during periods of lower Euribor rates, as these tend to coincide with financial stability and higher customer confidence.
+    Machine Learning Accuracy: The predictive model used achieved 89% accuracy in forecasting customer responses, demonstrating the potential of machine learning to optimize targeting strategies and improve marketing outcomes.
 
  
