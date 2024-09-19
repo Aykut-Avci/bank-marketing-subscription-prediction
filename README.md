@@ -50,9 +50,9 @@ The project successfully identified key features influencing customer subscripti
 ## 7. Business Proposal
 The analysis indicates the following recommendations:
 
-    Targeted Marketing: Tailoring marketing strategies based on customer age and education levels can significantly improve conversion rates, as these are key factors influencing offer acceptance.
-    Employee Capacity Investment: Increasing staff in bank branches may enhance customer service and marketing effectiveness, leading to higher offer acceptance rates.
-    Euribor Rate Sensitivity: Marketing efforts should be focused during periods of lower Euribor rates, as these tend to coincide with financial stability and higher customer confidence.
-    Machine Learning Accuracy: The predictive model used achieved 89% accuracy in forecasting customer responses, demonstrating the potential of machine learning to optimize targeting strategies and improve marketing outcomes.
+- Targeted Marketing: Tailoring marketing strategies based on customer age and education levels can significantly improve conversion rates, as these are key factors influencing offer acceptance.
+- Employee Capacity Investment: Increasing staff in bank branches may enhance customer service and marketing effectiveness, leading to higher offer acceptance rates.
+- Euribor Rate Sensitivity: Marketing efforts should be focused during periods of lower Euribor rates, as these tend to coincide with financial stability and higher customer confidence.
+- Machine Learning Accuracy: The predictive model used achieved 89% accuracy in forecasting customer responses, demonstrating the potential of machine learning to optimize targeting strategies and improve marketing outcomes.
 
  
